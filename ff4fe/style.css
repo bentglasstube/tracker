@@ -1,0 +1,70 @@
+body {
+  height: 540px;
+}
+
+#party, #items, #tracker {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 4px;
+  margin-bottom: 4px;
+  justify-content: space-around;
+}
+
+#party img {
+  opacity: 0.4;
+  filter: grayscale(1);
+  margin: 1px;
+}
+
+#items img {
+  opacity: 0.4;
+  filter: grayscale(1);
+  margin: 12px;
+}
+
+img.active {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+#tracker p {
+  margin: 0;
+  font-size: 12px;
+  width: 180px;
+  clear: both;
+  margin: 2px;
+  color: #777;
+}
+
+#tracker p.available {
+  color: #fff;
+}
+
+#tracker p.done {
+  color: #222;
+  text-decoration: line-through;
+}
+
+#tracker img {
+  height: 16px;
+  float: right;
+  opacity: 0.6;
+  filter: grayscale(1);
+}
+
+#tracker img.available {
+  opacity: 1;
+  filter: none;
+}
+
+#tracker img.done {
+  opacity: 0.3;
+  filter: grayscale(1);
+}
+
+#tracker hr {
+  display: block;
+  width: 100%;
+  margin: 2px;
+  padding: 0;
+}

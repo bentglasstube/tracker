@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'JoystixWebFont';
+  src: url('joystix.ttf') format('truetype');
+}
+
+body {
+  font-family: 'JoystixWebFont', sans-serif;
+  background: #000;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-size: 16px;
+  text-align: center;
+  color: #bbb;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: normal;
+  display: block;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 16px;
+  color: #fff
+}
+
+ul {
+  list-style: none;
+  font-size: 8px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+li {
+  margin-bottom: 16px;
+  padding: 8px;
+  background: #222;
+}
+
+li:hover {
+  background: #335;
+}
+
+li img {
+  display: block;
+  margin-bottom: 8px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}

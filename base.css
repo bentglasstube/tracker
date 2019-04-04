@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'pickles';
+  src: url('joystix.ttf') format('truetype');
+}
+
+html {
+  background: #111;
+}
+
+body {
+  user-select: none;
+  font-family: 'pickles', sans-serif;
+  background: #000;
+  color: #fff;
+  width: 402px;
+  height: 720px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: normal;
+  display: block;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 12px;
+  font-weight: normal;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+}
+
+div>span {
+  font-size: 12px;
+  line-height: 24px;
+  vertical-align: middle;
+  color: #fff;
+  display: block;
+}
+
+div>span>i {
+  width: 16px;
+  height: 16px;
+  margin: 4px;
+  float: right;
+}
+
+#timer {
+  text-align: right;
+  font-size: 36px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#timer #ms {
+  font-size: 50%;
+}

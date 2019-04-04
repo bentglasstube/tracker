@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'JoystixWebFont';
+  src: url('joystix.ttf') format('truetype');
+}
+
+body {
+  height: 540px;
+}
+
+div>span {
+  font-size: 16px;
+  line-height: 36px;
+}
+
+div>span>i {
+  height: 32px;
+  width: 32px;
+  margin: 2px 4px;
+}
+
+i.item {
+  background-image: url('blank.png');
+}
+
+i.triforce {
+  background-image: url('triforce-no.png');
+}
+
+i.triforce.have {
+  background-image: url('triforce-yes.png');
+}
+
+i.heart {
+  background-image: url('heart-no.png');
+}
+
+i.heart.have {
+  background-image: url('heart.png');
+}
+
+table.map {
+  background-clip: padding-box;
+  background-image: url('owm.png');
+  width: 384px;
+  height: 132px;
+  margin: 9px;
+  border-collapse: collapse;
+  outline: 9px solid #333;
+}
+
+table.map td {
+  width: 24px;
+  height: 16px;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  color: #000;
+  text-align: center;
+}
+
+table.map td:hover {
+  background: rgba(255, 255, 255, 0.8);
+}
