@@ -43,8 +43,5 @@ $(function() {
   });
 
   $('#timer').click(function(e) { toggle(); });
-
-
-  document.body.
   $('#timer').html('<span id="hms">0</span><span id="ms">00</span>');
 });
