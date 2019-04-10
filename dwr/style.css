@@ -1,0 +1,96 @@
+body {
+  text-align: center;
+  height: 540px;
+}
+
+.items {
+  border-bottom: 1px solid #555;
+  margin: 0 0 8px 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 8px;
+}
+
+.items img {
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+  filter: grayscale(1.0);
+  opacity: 0.5;
+  margin: 4px;
+}
+
+.items img.have {
+  filter: none;
+  opacity: 1.0;
+}
+
+.towns span {
+  background-image: url('town.png');
+  background-repeat: no-repeat;
+  background-position: 4px 4px;
+}
+
+.caves span {
+  background-image: url('cave.png');
+  background-repeat: no-repeat;
+  background-position: 4px 4px;
+}
+
+div {
+  border-bottom: 1px solid #555;
+  margin-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+div>span {
+  font-size: 16px;
+  line-height: 24px;
+  vertical-align: middle;
+  color: #fff;
+  opacity: 0.5;
+  filter: grayscale(1.0);
+  display: block;
+  padding-left: 30px;
+}
+
+div span.found {
+  opacity: 1.0;
+  filter: none;
+}
+
+div span i {
+  width: 16px;
+  height: 16px;
+  margin: 4px;
+  float: right;
+  opacity: 0.5;
+  filter: grayscale(1.0);
+}
+
+div span i.silver {
+  opacity: 1;
+}
+
+div span i.gold {
+  opacity: 1;
+  filter: none;
+}
+
+i.w { background-image: url('sword.png'); }
+i.a { background-image: url('armor.png'); }
+i.s { background-image: url('shield.png'); }
+
+i.c {
+  background-image: url('chest.png');
+  opacity: 1.0 !important;
+  filter: none !important;
+}
+
+i.c.open {
+  background-image: url('open.png');
+}
