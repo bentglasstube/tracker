@@ -40,7 +40,12 @@ img.have {
 }
 
 #key.silver {
-  filter: grayscale(1.0) !important;
+  opacity: 1;
+}
+
+#key.gold {
+  opacity: 1;
+  filter: none;
 }
 
 .island, .equipment {

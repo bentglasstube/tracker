@@ -7,20 +7,22 @@ $(function() {
     }
   }
 
+  function threeWay(element, classA, classB) {
+    if (element.hasClass(classA)) {
+      element.removeClass(classA);
+      element.addClass(classB);
+    } else if (element.hasClass(classB)) {
+      element.removeClass(classB);
+    } else {
+      element.addClass(classA);
+    }
+  }
+
   $('.items img').click(function(e) {
     var t = $(e.target);
 
     if (t.attr('id') == 'key') {
-      if (t.hasClass('silver')) {
-        t.removeClass('silver');
-        t.addClass('gold');
-      } else if (t.hasClass('gold')) {
-        t.removeClass('gold');
-        t.removeClass('have');
-      } else {
-        t.addClass('silver');
-        t.addClass('have');
-      }
+      threeWay(t, 'silver', 'gold');
     } else {
       t.toggleClass('have');
     }
@@ -54,14 +56,7 @@ $(function() {
 
     if (t.hasClass('flute')) {
       var p = $(t.parent());
-      if (p.hasClass('yes')) {
-        p.removeClass('yes');
-      } else if (p.hasClass('no')) {
-        p.removeClass('no');
-        p.addClass('yes');
-      } else {
-        p.addClass('no');
-      }
+      threeWay(p, 'no', 'yes');
     } else {
       t.toggleClass('done');
 
