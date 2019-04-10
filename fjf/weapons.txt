@@ -1,0 +1,3222 @@
+Ancient Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+40
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+Has a 33% chance of casting OOld after a successful attack.
+Location
+Found: Ronka Ruins
+Steal From: Landcrawler
+ 
+Apocalypse
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+139
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Blood Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+81
+Yes
+Yes
+No
+0
+0
+5
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Based off of Magic Power, disregards 31/32 Magic Defense and deals the same damage from the Back Row. Most notably, it has a very poor Hit Rate of only 25%. Drains damage amount from target to equipper (reverse effect on undead).
+Location
+Found: Interdimensional Rift
+Steal From: King Behemoth
+ 
+Brave Blade
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+Yes
+Yes
+No
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Begins with an attack power of 150, which is reduced by one every time your party escapes a battle before victory. Counts every battle, even before obtaining the sword.
+Location
+Found: Moore
+ 
+Broadsword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+13
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Wind Shrine
+Buy From: Tule (Final Land), Tule (Bartz' Land)
+ 
+Coral Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+34
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+Elemental attack.
+Element: Lightning
+Location
+Buy From: Jachol (Bartz' Land), Jachol (Final Land)
+Steal From: Cray Claw
+ 
+Defender
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+96
+Yes
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Casts OProtect as an item without breaking. Offers the equipper a 25% chance of evading a blockable physical attack.
+Location
+Found: Fork Tower
+Steal From: Landcrawler, Sea Devil
+ 
+Enhancer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+99
+Yes
+Yes
+No
+0
+0
+3
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Istory Falls
+Steal From: Sword Dancer
+ 
+Excalibur
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+107
+Yes
+Yes
+Yes
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Deals Holy elemental damage.
+Location
+Found: Sealed Castle of Kuza
+ 
+Excalipoor
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+97
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+Never deals more than 1 damage to any target.
+Location
+Found: Exdeath's Castle
+ 
+Flametongue
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+60
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Elemental attack.
+Element: Fire
+Location
+Found: Forest of Moore
+Buy From: Phantom Village (Final Land)
+Steal From: Achelon
+ 
+Great Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+54
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Castle of Bal
+Buy From: Surgate (Final Land), Surgate (Galuf's Land)
+ 
+Ice Brand
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+62
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+Elemental attack.
+Element: Ice
+Location
+Found: Castle of Bal
+Buy From: Phantom Village (Final Land)
+ 
+Long Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+19
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Carwen (Final Land), Walse (Bartz' Land), Carwen (Bartz' Land)
+Win from: Ice Soldier
+ 
+Mythril Sword
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+29
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Steal From: Ice Soldier
+ 
+Ragnarok
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+125
+Yes
+Yes
+Yes
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Gladiator
+Special Attributes
+None
+Location
+Found: Interdimensional Rift
+ 
+Rune Blade
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+47
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+Based off of both Strength and Magic Power, and disregards 3/4 of the target's Defense. Uses 8MP to add twenty attack power to an attack.
+Location
+Steal From: Stingray
+ 
+Sleep Blade
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+46
+Yes
+Yes
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+Has a 50% chance of casting OSleep after a successful attack.
+Location
+Buy From: Quelb (Final Land), Castle of Bal (Final Land), Regole (Galuf's Land), Quelb (Galuf's Land), Regole (Final Land)
+ 
+Ultima Weapon
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+177
+Yes
+Yes
+No
+2
+2
+0
+2
+0
+Equippers
+Freelancer Knight Mystic Knight Blue Mage Red Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Demon's Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+52
+No
+No
+No
+0
+0
+2
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Has a 16% chance of casting ODeath after a successful attack. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Location
+Found: Sealed Temple
+ 
+Flame Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+13
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Boosts Fire-based attacks by 50%. Casts OFiraga when used as an item, and then breaks. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Element: Fire
+Location
+Found: Karnak
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Win from: Ricard Mage
+ 
+Frost Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+13
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Boosts Ice-based attacks by 50%. Casts OBlizzaga when used as an item, and then breaks. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Element: Ice
+Location
+Found: Carwen
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Win from: Ice Commander, Shiva
+ 
+Lilith Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+27
+No
+No
+No
+0
+0
+3
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Deals no damage, but acts as !Flirt. Has a 25% chance of casting OOsmose after a successful attack. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Location
+Found: Interdimensional Rift
+Steal From: Farfarello
+ 
+Magus Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+37
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Boosts elemental attacks by 50%. Deals Fire-,Ice- and Lightning-elemental damage. Dame damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Element: FireIceLightningPoisonEarthWind
+Location
+Found: Sealed Castle of Kuza
+ 
+Poison Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+29
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts OBio when used as an item, and then breaks. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Element: Poison
+Location
+Buy From: Quelb (Galuf's Land), Quelb (Final Land)
+Steal From: Black Warlock
+ 
+Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+5
+No
+No
+No
+0
+0
+1
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Deals same damage from the Back Row. Damage based on caster's Magic Power.
+Location
+Buy From: Carwen (Bartz' Land), Tule (Bartz' Land), Tule (Final Land), Carwen (Final Land)
+Win from: Mani Wizard
+Steal From: Ricard Mage
+ 
+Thunder Rod
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+13
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Boosts Lightning-based attacks by 50%. Casts OThundaga when used as an item, and then breaks. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Element: Lightning
+Location
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Steal From: Yellow Dragon
+ 
+Wonder Wand
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+No
+0
+0
+2
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts OReturn when used as an item. Makes attack power zero. When used with !Attack, casts the next spell in its list or resets to the beginning of the list if at the end. The list, in order: OCure, OPoisona, OSilence, OProtect, OMini, OCura, ORaise, OConfuse, OBlink, OShell, OEsuna, OCuraga, OReflect, OBerserk, OArise, OHoly, ODispel, OFire, OBlizzard, OThunder,OPoison, OSleep, OToad, OFira, OBlizzara, OThundara, ODrain, OBreak, OBio, OFiraga, OBlizzaga, OThundaga, OFlare, ODeath, OOsmose. Ignores Mute status. Deals same damage from the Back Row. Deals magic damage based on caster's Magic Power.
+Location
+Found: Fork Tower
+ 
+Battle Axe
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+20
+Yes
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land)
+Steal From: Bio Soldier
+ 
+Death Sickle
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+40
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+Has a 33% chance of casting ODeath after a successful attack.
+Location
+Win from: Berserker, Harvester
+Steal From: Mykale
+ 
+Earthbreaker
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+130
+Yes
+No
+Yes
+5
+5
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+None
+Location
+Steal From: Ironclad
+ 
+Ogre Killer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+30
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+None
+Location
+Buy From: Jachol (Final Land), Jachol (Bartz' Land)
+ 
+Poison Axe
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+45
+Yes
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+Has a 67% chance of casting OPoison after a successful attack.
+Location
+Buy From: Surgate (Final Land), Surgate (Galuf's Land)
+Steal From: Reflect Knight
+ 
+Rune Axe
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+71
+Yes
+No
+Yes
+0
+0
+3
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+Based off of both Strength and Magic Power, and disregards 3/4 of the target's Defense. Uses 5MP to add ten attack power to an attack.
+Location
+None
+ 
+Titan's Axe
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+88
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker Gladiator
+Special Attributes
+None
+Location
+Found: Istory Falls
+ 
+Aevis Killer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+88
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Automatic critical hit to Aevis targets. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Phoenix Tower
+Win from: Tot Aevis
+Steal From: Tot Aevis
+ 
+Artemis Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+108
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Doubles damage to Magical-type targets. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Istory Falls
+Steal From: Dragon Aevis
+ 
+Dark Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+40
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has a 66% chance of setting status. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Status: Darkness
+Location
+Buy From: Regole (Galuf's Land), Regole (Final Land), Quelb (Galuf's Land), Castle of Bal (Final Land), Quelb (Final Land)
+Win from: Enchanted Fan
+ 
+Elven Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+53
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has a 15% chance of critical hit. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+Steal From: Berserker
+ 
+Fairy Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+127
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has a 12% chance of setting status. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Status: Confuse
+Location
+Win from: Grand Aevis
+ 
+Flame Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+36
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Deals Fire elemental damage. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Buy From: Crescent (Bartz' Land), Crescent (Final Land)
+ 
+Frost Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+36
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Deals Ice elemental damage. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Buy From: Crescent (Bartz' Land), Crescent (Final Land)
+Win from: Cray Claw
+ 
+Hayate Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+66
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has a 25% chance of using !Rapid Fire instead of !Attack. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Exdeath's Castle
+Steal From: Poison Eagle
+ 
+Killer Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+46
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has an 8% chance of killing a non-Heavy enemy. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemies.
+Status: Death
+Location
+Buy From: Quelb (Final Land), Quelb (Galuf's Land)
+Steal From: Ghidra
+ 
+Rune Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+This bow is one-handed! Has a 33% chance of setting status, does no damage (lowers attack power to zero). Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Status: Silence
+Location
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Win from: Gilgamesh (5)
+ 
+Silver Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+35
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Buy From: Jachol (Final Land), Jachol (Bartz' Land)
+Steal From: Harvester
+ 
+Thunder Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+36
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Deals Lightning elemental damage. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Buy From: Crescent (Final Land), Crescent (Bartz' Land)
+ 
+Yoichi's Bow
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+93
+Yes
+No
+No
+3
+0
+0
+3
+0
+Equippers
+Freelancer Ranger Gladiator
+Special Attributes
+Has a 30% chance of critical hit. Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Sealed Castle of Kuza
+ 
+Air Knife
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+53
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Boosts elemental attacks by 50%.
+Element: Wind
+Location
+Found: Istory Falls
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+Steal From: Moss Fungus
+ 
+Assassin's Dagger
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+78
+No
+Yes
+Yes
+0
+0
+0
+1
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Has a 25% chance of casting ODeath after a successful attack.
+Location
+Found: Sealed Castle of Kuza
+ 
+Chicken Knife
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+Yes
+No
+0
+0
+0
+5
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Has a 25% chance of executing !Flee instead of !Attack. The battle power of this weapon increases by one for each two battles from which the party escapes, to a maximum of 127. Battles fled both before and after acquiring the knife are considered.
+Location
+Found: Moore
+ 
+Dagger
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+3
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+None
+Location
+Found: Original equipment for Faris
+Buy From: Carwen (Final Land), Walse (Bartz' Land), Carwen (Bartz' Land)
+Win from: Skeleton
+ 
+Dancing Dagger
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+48
+No
+Yes
+No
+0
+0
+1
+1
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Has a 50% chance of executing !Dance instead of !Attack.
+Location
+Found: Moogle Village
+Steal From: Shadow Dancer
+ 
+Gladius
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+115
+No
+Yes
+Yes
+0
+0
+0
+2
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Deals Holy elemental damage.
+Location
+Found: Sealed Temple
+ 
+Knife
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+4
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+None
+Location
+Found: Original equipment for Lenna
+ 
+Mage Masher
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+28
+No
+Yes
+Yes
+0
+0
+1
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Has a 33% chance of casting OSilence after a successful attack.
+Location
+Buy From: Jachol (Final Land), Jachol (Bartz' Land)
+Steal From: Sorcerer
+ 
+Main Gauche
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+33
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Offers the equipper a 25% chance of evading a blockable physical attack.
+Location
+Found: Moore
+Steal From: Mindflayer
+ 
+Man-Eater
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+86
+No
+No
+No
+2
+2
+2
+2
+0
+Equippers
+Freelancer Dancer
+Special Attributes
+Doubles damage to Humanoid targets, doubles damage done with !Jump. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Interdimensional Rift
+Steal From: Alchymia
+ 
+Mythril Knife
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+20
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+None
+Location
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Steal From: Wyvern
+ 
+Orichalcum Dirk
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+38
+No
+Yes
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+None
+Location
+Buy From: Quelb (Final Land), Quelb (Galuf's Land), Castle of Bal (Final Land), Regole (Galuf's Land), Regole (Final Land)
+ 
+Thief Knife
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+63
+No
+Yes
+No
+0
+0
+0
+1
+0
+Equippers
+Freelancer Knight Dragoon Berserker Summoner Beastmaster Bard Mime Ninja Ranger Black Mage Blue Mage Chemist Dancer Cannoneer Thief Samurai Mystic Knight Time Mage Red Mage Geomancer Necromancer Gladiator
+Special Attributes
+Has a 50% chance of executing !Mug instead of !Attack
+Location
+Found: Phantom Village
+ 
+Kagenui
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+123
+No
+Yes
+No
+0
+0
+0
+3
+0
+Equippers
+Freelancer Ninja
+Special Attributes
+Has a 25% chance of casting OStop after a successful attack.
+Location
+Found: Sealed Temple
+ 
+Kodachi
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+43
+No
+Yes
+No
+0
+0
+0
+1
+0
+Equippers
+Freelancer Ninja
+Special Attributes
+None
+Location
+Buy From: Quelb (Galuf's Land), Quelb (Final Land)
+ 
+Kunai
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+26
+No
+Yes
+No
+0
+0
+0
+1
+0
+Equippers
+Freelancer Ninja
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Lix (Bartz' Land), Karnak (Final Land)
+ 
+Sasuke's Katana
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+96
+No
+Yes
+No
+0
+0
+0
+1
+0
+Equippers
+Freelancer Ninja
+Special Attributes
+Offers the equipper a 25% chance of evading a blockable physical attack.
+Location
+Found: Sealed Castle of Kuza
+ 
+Dragon Lance
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+116
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Automatic critical hit to Dragon-type creatures. See the enemy natures guide for more information on this type of enemy. Deals double damage with !Jump.
+Location
+Steal From: Crystal Dragon, Jura Aevis
+ 
+Heavy Lance
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+51
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Buy From: Surgate (Galuf's Land), Surgate (Final Land)
+ 
+Holy Lance
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+106
+No
+No
+Yes
+3
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals Holy elemental damage. Deals double damage with !Jump.
+Location
+Found: Sealed Castle of Kuza
+ 
+Javelin
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+52
+No
+No
+Yes
+1
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Steal From: Sand Bear
+ 
+Longinus
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+129
+No
+No
+Yes
+2
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Found: Sealed Temple
+ 
+Mythril Spear
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+27
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+ 
+Partisan
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+59
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Found: Castle Exdeath
+Buy From: Phantom Village (Final Land)
+Win from: Ziggurat Gigas
+ 
+Spear
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+22
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals double damage with !Jump.
+Location
+Steal From: Shell Bear
+ 
+Trident
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+35
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals Lightning elemental damage. Deals double damage with !Jump.
+Location
+Buy From: Jachol (Final Land), Jachol (Bartz' Land)
+Steal From: Corbett, Dhorme Chimera, Dragon Aevis, Gilgamesh (2)
+ 
+Twin Lance
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+58
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Thief Ninja Mime
+Special Attributes
+Attacks twice per turn when used with !Attack. Deals double damage with !Jump.
+Location
+Buy From: Phantom Village (Final Land)
+Win from: King Behemoth
+Steal From: Objet d'Art
+ 
+Wind Spear
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+41
+No
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Dragoon Gladiator
+Special Attributes
+Deals Wind elemental damage. Deals double damage with !Jump.
+Location
+Buy From: Regole (Final Land), Regole (Galuf's Land), Castle of Bal (Final Land), Quelb (Galuf's Land), Quelb (Final Land)
+Steal From: Manticore
+ 
+Flail
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+13
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+None
+Location
+Found: Ship Graveyard
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Steal From: Atomos
+ 
+Healing Staff
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+No
+0
+0
+2
+0
+0
+Equippers
+Freelancer White Mage Time Mage Red Mage Chemist Oracle Mime
+Special Attributes
+Casts OCura on the target when used with !Attack, does no damage (makes attack power zero).
+Location
+Found: Tycoon Castle
+Win from: Alte Roite
+Steal From: Chrono Controller, Sleepy
+ 
+Judgement Staff
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+57
+No
+No
+No
+0
+0
+3
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts ODispel when used as an item. Deals magic damage based on caster's Magic Power.
+Location
+Steal From: Black Warlock, Exdeath, Istory Lythos
+ 
+Mace of Zeus
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+75
+Yes
+No
+No
+0
+0
+3
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Morning Star
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+47
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+None
+Location
+Found: Forest of Moore
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+ 
+Power Staff
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+No
+5
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts OBerserk on the target when used with !Attack, does no damage (makes attack power zero).
+Location
+Win from: Black Warlock
+ 
+Sage's Staff
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+50
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts ORaise when used as an item. Boosts Holy elemental attacks by 50%. 8x damage against the undead. See the enemy natures guide for more information on this type of enemy.
+Element: Holy
+Location
+Found: Sealed Castle of Kuza
+ 
+Staff
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+6
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+None
+Location
+Buy From: Carwen (Bartz' Land), Tule (Bartz' Land), Tule (Final Land), Carwen (Final Land)
+Steal From: Metamorph
+ 
+Staff of Light
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+42
+No
+No
+No
+0
+0
+2
+0
+0
+Equippers
+Freelancer Summoner Black Mage Blue Mage Time Mage Mime Red Mage Necromancer
+Special Attributes
+Casts OHoly when used as an item, and then breaks. Deals magic damage based on the caster's Magic Power.
+Location
+Win from: Metamorph
+Steal From: Halicarnassus
+ 
+Ashura
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+39
+Yes
+No
+Yes
+0
+0
+0
+0
+12
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 12% chance of dealing a critical hit.
+Location
+Found: Tycoon Castle
+Buy From: Quelb (Galuf's Land), Regole (Final Land), Castle of Bal (Final Land), Jachol (Bartz' Land), Quelb (Final Land), Jachol (Final Land), Regole (Galuf's Land)
+Steal From: Numb Blade
+ 
+Kiku-Ichimonji
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+84
+Yes
+No
+Yes
+0
+0
+0
+0
+12
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 12% chance of dealing a critical hit.
+Location
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Steal From: Ninja
+ 
+Kotetsu
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+55
+Yes
+No
+Yes
+0
+0
+0
+0
+12
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 12% chance of dealing a critical hit.
+Location
+Found: Exdeath's Castle
+Win from: Numb Blade
+ 
+Masamune
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+104
+Yes
+No
+Yes
+0
+0
+0
+0
+15
+Equippers
+Freelancer Samurai
+Special Attributes
+Equipper gets automatic first turn in every battle. Casts OHaste when used as an item. Has a 15% chance of dealing a critical hit.
+Location
+Found: Sealed Castle of Kuza
+ 
+Murakumo
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+114
+Yes
+No
+Yes
+0
+0
+0
+0
+20
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 20% chance of dealing a critical hit.
+Location
+Steal From: Yojimbo
+ 
+Murasame
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+94
+Yes
+No
+Yes
+0
+0
+0
+0
+25
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 25% chance of dealing a critical hit.
+Location
+Steal From: Rukh
+ 
+Mutsunokami
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+139
+Yes
+No
+Yes
+0
+0
+0
+0
+50
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 50% chance of dealing a critical hit.
+Location
+Found: Sealed Temple
+ 
+Osafune
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+48
+Yes
+No
+Yes
+0
+0
+0
+0
+12
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 12% chance of dealing a critical hit.
+Location
+Buy From: Surgate (Final Land), Surgate (Galuf's Land)
+ 
+Wind Slash
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+41
+Yes
+No
+Yes
+0
+0
+0
+0
+12
+Equippers
+Freelancer Samurai
+Special Attributes
+Has a 12% chance of casting Wind Slash instead of !Attack. Boosts elemental attack by 50%. Has a 12% chance of dealing a critical hit.
+Element: Wind
+Location
+Found: Drakenvale
+ 
+Apollo's Harp
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+42
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Bard
+Special Attributes
+Executes a magical-type attack, does 8x damage to dragon and undead targets. See the enemy natures guide for more information on these types of enemy.
+Location
+Found: Sealed Castle of Kuza
+ 
+Dream Harp
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+22
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Bard
+Special Attributes
+Deals 1/8 damage based on target's current HP. Sets the ailment OSleep on the target.
+Location
+Buy From: Castle of Bal (Final Land), Quelb (Final Land), Regole (Final Land), Regole (Galuf's Land), Quelb (Galuf's Land)
+Win from: Traveler
+Steal From: Traveler
+ 
+Lamia's Harp
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+32
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Bard
+Special Attributes
+Deals 3/16 damage based on target's current HP. Sets the ailment OConfuse on the target.
+Location
+Found: Castle of Bal
+Win from: Lemure
+ 
+Silver Harp
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+12
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Bard
+Special Attributes
+Deals 1/16 damage based on target's current HP.
+Location
+Buy From: Crescent (Final Land), Crescent (Bartz' Land)
+ 
+Ash
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+25
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+None
+Location
+Win from: Apanda, Crystal, Crystal (2), Crystal (3), Crystal (4)
+Steal From: Apanda
+ 
+Flame Scroll
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+Damage is based on the thrower's magic attack.
+Element: Fire
+Location
+Found: Shinryu's Lair
+Buy From: Quelb (Final Land), Lix (Bartz' Land), Phantom Village (Final Land), Quelb (Galuf's Land)
+Win from: Ifrit, Liquid Flame, Mindflusher
+Steal From: Mover
+ 
+Fuma Shuriken
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+117
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+None
+Location
+Found: Exdeath's Castle. Istory Falls
+Buy From: Phantom Village (Final Land)
+Win from: Assassin, Ninja
+Steal From: Minotaur
+ 
+Lightning Scroll
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+Damage is based on the thrower's magic attack.
+Element: Lightning
+Location
+Found: Karnak Castle. Shinryu's Lair
+Buy From: Quelb (Galuf's Land), Phantom Village (Final Land), Quelb (Final Land), Lix (Bartz' Land)
+Win from: Mover, Thunder Anemone
+ 
+Shuriken
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+50
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+None
+Location
+Found: Tycoon Castle, Karnak Castle, Jachol, Ronka Ruins
+Buy From: Lix (Bartz' Land), Quelb (Final Land), Quelb (Galuf's Land), Phantom Village (Final Land)
+Steal From: Ninja
+ 
+Water Scroll
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+0
+No
+No
+Yes
+0
+0
+0
+0
+0
+Special Attributes
+Damage is based on the thrower's magic attack.
+Element: Water
+Location
+Found: Great Sea Trench, Sealed Temple
+Buy From: Phantom Village (Final Land), Quelb (Final Land), Lix (Bartz' Land), Quelb (Galuf's Land)
+Win from: Neo Garula
+Steal From: Mover
+ 
+Beast Killer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+69
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 50% chance of setting status to Magical Beast targets, and doubles damage to Magical Beasts. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Status: Paralyze
+Location
+Found: Island Shrine
+Steal From: Iron Fist, Unknown
+ 
+Blitz Whip
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+39
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 33% chance of casting OThunder on target. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Location
+Found: Jachol
+Steal From: Flaremancer
+ 
+Chain Whip
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+48
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 50% chance of setting status to Magical Beast targets. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Status: Paralyze
+Location
+Buy From: Regole (Final Land), Quelb (Final Land), Regole (Galuf's Land), Quelb (Galuf's Land), Castle of Bal (Final Land)
+ 
+Dragon Whisker
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+89
+No
+No
+No
+5
+0
+0
+0
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 50% chance of adding status to Magical Beast targets, does double damage to Dragons. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Status: Paralyze
+Location
+Win from: Stingray
+Steal From: Shinryu
+ 
+Fire Lash
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+79
+No
+No
+No
+2
+0
+0
+2
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 33% chance of casting OFiraga after a successful attack. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Location
+Found: Sealed Castle of Kuza
+ 
+Whip
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+23
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Beastmaster
+Special Attributes
+Has a 50% chance of setting status to Magical Beast targets. Deals the same damage from the Back Row. Unblockable to most Aerial targets. See the enemy natures guide for more information on these types of enemy.
+Status: Paralyze
+Location
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Win from: Magissa
+ 
+Moonring Blade
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+32
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Thief Ninja Mime
+Special Attributes
+Has a 95% hit rate and may miss on occasion.
+Location
+Found: Fire-Powered Ship
+Buy From: Phantom Village (Final Land)
+Steal From: Belphegor
+ 
+Rising Sun
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+68
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Thief Ninja Mime
+Special Attributes
+Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy.
+Location
+Found: Island Shrine
+Steal From: Belphegor
+ 
+Diamond Bell
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+21
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Geomancer
+Special Attributes
+Deals damage based on the caster's Agility and Magic Power, and does not work when OSilence is in effect. Deals the same damage from the Back Row.
+Location
+Found: Tycoon Castle
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+ 
+Gaia's Bell
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+23
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Geomancer
+Special Attributes
+Has a 25% chance of casting Quake after a successful attack. Boosts elemental damage by 50%. Deals damage based on Strength, ignores 3/4 of the target's defense. Deals the same damage from the Back Row.
+Element: Earth
+Location
+Found: Sealed Castle of Kuza
+ 
+Rune Chime
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+43
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Geomancer
+Special Attributes
+Damage based on both Strength and Magic Power, and disregards 3/4 of the target's Defense. Uses 5MP to add ten attack power to an attack. Boosts elemental attacks by 50%.
+Element: FireIceLightningPoisonEarthWind
+Location
+Win from: Baldanders
+ 
+Tinklebell
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+52
+No
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Geomancer
+Special Attributes
+Deals damage based on the caster's Agility and Magic Power, and does not work when Mute is in effect. Deals the same damage from the Back Row.
+Location
+Win from: Twintania
+ 
+Gaia Hammer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+55
+Yes
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker
+Special Attributes
+Has a 25% chance of casting Quake instead of an !Attack. Deals the same damage from the Back Row.
+Location
+Found: Pyramid of Moore
+Buy From: Dwarven Village (Final Land), Phantom Village (Final Land)
+Steal From: Titan
+ 
+Mythril Hammer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+25
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Steal From: Drippy
+ 
+Thor's Hammer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+78
+Yes
+No
+No
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker
+Special Attributes
+Unblockable to most Aerial targets. See the enemy natures guide for more information on this type of enemy. Deals the same damage from the Back Row.
+Location
+Found: Interdimensional Rift
+Steal From: Death Claw
+ 
+War Hammer
+Attack
+Two-Hand
+Spellblade
+Throwable
+Strength
+Stamina
+Magic
+Agility
+Critical
+35
+Yes
+No
+Yes
+0
+0
+0
+0
+0
+Equippers
+Freelancer Berserker
+Special Attributes
+None
+Location
+Buy From: Quelb (Galuf's Land), Castle of Bal (Final Land), Quelb (Final Land), Regole (Final Land), Regole (Galuf's Land)
+Steal From: Bio Soldier, Reflect Knight
+ 

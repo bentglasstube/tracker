@@ -1,0 +1,2447 @@
+Bronze Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+4
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Carwen (Bartz' Land), Carwen (Final Land)
+Win from: Siren
+ 
+Copper Cuirass
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+1
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Carwen (Final Land), Carwen (Bartz' Land)
+ 
+Crystal Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+20
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Pyramid of Moore
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Win from: Crystal Dragon, Sekhmet
+ 
+Diamond Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+15
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Halves elemental damage.
+Element: Lightning
+Location
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+ 
+Genji Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+9
+22
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Protects against statuses.
+Prevents Status: ToadConfuse
+Location
+Steal From: Gilgamesh (6)
+ 
+Golden Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+11
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Ronka Ruins
+Buy From: Quelb (Final Land), Regole (Galuf's Land), Surgate (Final Land), Castle of Bal (Final Land), Regole (Final Land), Quelb (Galuf's Land), Surgate (Galuf's Land)
+ 
+Iron Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+6
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land)
+Steal From: Iron Giant
+ 
+Maximillian
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+9
+27
+5
+0
+0
+0
+0
+0
+2
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Mythril Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+9
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Steal From: Mythril Dragon
+ 
+Bronze Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+2
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Carwen (Bartz' Land), Carwen (Final Land)
+ 
+Crystal Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+13
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Island Shrine
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Win from: Crystelle
+ 
+Diamond Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+10
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Halves elemental damage.
+Element: Lightning
+Location
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+Win from: Ironclad
+ 
+Genji Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+15
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Protects against statuses.
+Prevents Status: MiniConfuse
+Location
+Steal From: Gilgamesh (4)
+ 
+Golden Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+8
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Surgate (Galuf's Land), Regole (Galuf's Land), Quelb (Final Land), Regole (Final Land), Quelb (Galuf's Land), Surgate (Final Land), Castle of Bal (Final Land)
+ 
+Grand Helmet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+6
+18
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Iron Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+2
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land)
+Steal From: Iron Giant
+ 
+Mythril Helm
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+6
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: North Mountain
+Buy From: Karnak (Bartz' Land)
+Steal From: Sword Dancer
+ 
+Thornlet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+20
+5
+0
+10
+0
+-5
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Both inflicts and prevents statuses.
+Prevents Status: Sleep
+Adds Status: HP Leak
+Location
+Found: Pyramid of Moore
+Steal From: Lamia Queen
+ 
+Angel Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+10
+11
+0
+25
+0
+0
+0
+5
+Equippers
+Freelancer Chemist Mime
+Special Attributes
+Protects against status and nullifies elemental damage.
+Prevents Status: Poison
+Element: Poison
+Location
+Found: Castle of Bal
+Buy From: Phantom Village (Final Land)
+ 
+Black Garb
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+17
+2
+0
+0
+1
+0
+1
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Found: Pyramid of Moore
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+ 
+Black Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+14
+14
+0
+20
+0
+5
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Pyramid of Moore
+Buy From: Dwarven Village (Final Land), Phantom Village (Final Land)
+Win from: Fury
+ 
+Bone Mail
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+30
+1
+0
+10
+0
+0
+0
+-5
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+Halves damage from Ice, doubles damage from Fire and Holy. Healing wearer instead deals damage. Death fully restores wearer. Killed, Life-restoring items and spells do not work (not quite Zombie status).
+Prevents Status: DeathPoisonDarknessOldConfuseBerserkRegen
+Location
+Found: Drakenvale
+Win from: Hades
+Steal From: Enuo, Necromancer
+ 
+Cotton Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+2
+4
+0
+15
+0
+0
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land), Carwen (Bartz' Land), Carwen (Final Land)
+ 
+Diamond Plate
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+13
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+Halves elemental damage.
+Element: Lightning
+Location
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+Win from: Calofisteri
+ 
+Gaia Gear
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+8
+10
+0
+18
+0
+0
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+Increases the strength of elemental attacks by 50%.
+Element: Earth
+Location
+Buy From: Regole (Galuf's Land), Quelb (Galuf's Land), Surgate (Galuf's Land), Regole (Final Land), Surgate (Final Land), Castle of Bal (Final Land), Quelb (Final Land)
+Win from: Gravitator
+Steal From: Abductor, Sorcerer
+ 
+Kenpo Gi
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+5
+2
+0
+0
+0
+0
+1
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land)
+ 
+Leather Armor
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+1
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Buy From: Tule (Final Land), Tule (Bartz' Land)
+Steal From: Famed Mimic Gogo, Melusine
+ 
+Luminous Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+11
+12
+0
+19
+0
+2
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Moore (Final Land), Moore (Galuf's Land)
+Win from: Mykale, Necrophobe
+ 
+Mirage Vest
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+14
+4
+0
+3
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+Adds one Image to the wearer at the start of battle.
+Adds Status: Image
+Location
+Found: Make an entire trip around the world while riding Boko
+Win from: Tonberry
+Steal From: Oisearare
+ 
+Ninja Suit
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+9
+2
+0
+0
+1
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Found: Library of the Ancients
+Buy From: Various Stores
+Steal From: Page 256
+ 
+Power Sash
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+0
+11
+0
+0
+0
+0
+0
+3
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Surgate (Final Land), Surgate (Galuf's Land), Quelb (Galuf's Land), Quelb (Final Land)
+Win from: Yojimbo
+ 
+Rainbow Dress
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+18
+3
+0
+4
+0
+0
+0
+0
+Equippers
+Freelancer Dancer
+Special Attributes
+Boosts rate of Sword Dance when using !Dance, increases the success rate of !Flirt
+Prevents Status: Confuse
+Location
+Found: Interdimensional Rift
+Steal From: Parthenope
+ 
+Robe of Lords
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+18
+22
+0
+24
+0
+1
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Sage's Surplice
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+6
+8
+0
+17
+0
+0
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+Protects against status.
+Prevents Status: Silence
+Location
+Buy From: Crescent (Final Land), Crescent (Bartz' Land), Jachol (Bartz' Land), Jachol (Final Land)
+Steal From: Drippy, Ra Mage
+ 
+Silk Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+4
+6
+0
+16
+0
+0
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Walse Tower
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Steal From: Mykale
+ 
+Silver Plate
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+4
+7
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Win from: Sergeant
+ 
+Vishnu Vest
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+20
+8
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief Dragoon Ninja Samurai Berserker Ranger Mystic Knight Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Gladiator Mime
+Special Attributes
+Halves damage of elemental attacks.
+Element: FireIceLightning
+Location
+Found: Sealed Temple
+ 
+White Robe
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+14
+14
+0
+20
+0
+3
+0
+3
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Bard Dancer Necromancer Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Pyramid of Moore
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Win from: Mindflayer
+ 
+Black Cowl
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+12
+0
+0
+0
+2
+0
+0
+0
+Equippers
+Freelancer Monk Thief Ninja Ranger Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Phantom Village (Final Land), Dwarven Village (Final Land)
+Win from: Azulmagia
+ 
+Circlet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+10
+2
+0
+5
+0
+3
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Dancer Necromancer Bard Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Island Shrine
+Buy From: Dwarven Village (Final Land), Phantom Village (Final Land)
+Win from: Gorgimera
+ 
+Gold Hairpin
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+0
+2
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Dancer Necromancer Bard Oracle Cannoneer Mime
+Special Attributes
+Halves the wearer's cost of casting spells.
+Location
+Found: Barrier Tower, Pyramid of Moore
+Steal From: Famed Mimic Gogo
+ 
+Green Beret
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+3
+1
+0
+0
+1
+0
+1
+0
+Equippers
+Freelancer Monk Thief Ninja Ranger Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Mime
+Special Attributes
+None
+Location
+Found: Fire-Powered Ship
+Buy From: Various Stores
+Steal From: Enkidu, Mindflayer, Page 32
+ 
+Hypno Crown
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+7
+5
+4
+0
+5
+0
+1
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Doubles the success rate of !Control.
+Location
+Found: Drakenvale
+ 
+Lamia's Tiara
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+3
+7
+0
+10
+0
+3
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Dancer Necromancer Bard Oracle Cannoneer Mime
+Special Attributes
+Prevents statuses, increases the chance of Sword Dance appearing for a Dancer. Boosts the success rate of !Flirt.
+Prevents Status: Confuse
+Location
+Buy From: Phantom Village (Final Land)
+Win from: Lamia Queen
+Steal From: Lamia
+ 
+Leather Cap
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+1
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Found: Pirate Hideout, Wind Shrine
+Buy From: Tule (Final Land), Tule (Bartz' Land)
+Win from: Goblin, Sleepy
+ 
+Plumed Hat
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+2
+2
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Crescent (Final Land), Karnak (Final Land), Crescent (Bartz' Land)
+Steal From: Calofisteri, Tonberry
+ 
+Ribbon
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+12
+2
+0
+5
+5
+5
+5
+5
+Equippers
+Freelancer Dancer
+Special Attributes
+Prevents statuses.
+Prevents Status: DeathPetrifyToadPoisonDarknessOldBerserkSilence
+Location
+Found: Pyramid of Moore, Regole
+Steal From: Lemure
+ 
+Royal Crown
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+8
+13
+13
+5
+10
+1
+1
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Sage's Miter
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+6
+2
+0
+5
+0
+2
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Dancer Necromancer Bard Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Moore (Galuf's Land), Moore (Final Land)
+Win from: Flaremancer
+Steal From: Death Dealer
+ 
+Tiger Mask
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+9
+2
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Monk Thief Ninja Ranger Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Moore (Galuf's Land), Moore (Final Land)
+Win from: Famed Mimic Gogo
+ 
+Twist Headband
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+6
+0
+0
+0
+0
+0
+3
+0
+Equippers
+Freelancer Monk Thief Ninja Ranger Blue Mage Red Mage Beastmaster Chemist Dancer Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Surgate (Galuf's Land), Quelb (Final Land), Quelb (Galuf's Land), Surgate (Final Land)
+Steal From: Steel Fist
+ 
+Wizard's Hat
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+4
+2
+0
+5
+0
+1
+0
+0
+Equippers
+Freelancer White Mage Black Mage Time Mage Summoner Blue Mage Red Mage Chemist Geomancer Dancer Necromancer Bard Oracle Cannoneer Mime
+Special Attributes
+None
+Location
+Buy From: Surgate (Final Land), Surgate (Galuf's Land), Regole (Final Land), Quelb (Galuf's Land), Castle of Bal (Final Land), Regole (Galuf's Land), Quelb (Final Land)
+Win from: Gilgamesh (2), Mini Magician
+Steal From: Mini Magician
+ 
+Aegis Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+0
+0
+33
+0
+0
+1
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Has a 33% chance of blocking a magical attack, protects against status.
+Prevents Status: Petrify
+Location
+Found: Istory Falls, optional at Forest of Moore
+Steal From: Gorgimera, Halicarnassus
+ 
+Bronze Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+1
+0
+15
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Carwen (Final Land), Carwen (Bartz' Land)
+ 
+Crystal Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+8
+0
+45
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Dwarven Village (Final Land), Phantom Village (Final Land)
+Steal From: Crystelle
+ 
+Diamond Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+6
+0
+35
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Halves elemental damage.
+Element: Lightning
+Location
+Found: Exdeath's Castle
+Buy From: Moore (Galuf's Land), Moore (Final Land)
+ 
+Flame Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+7
+5
+40
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Absorbs elemental damage.
+Element: Fire
+Location
+Found: Optional at Forest of Moore, Pyramid of Moore
+Win from: Odin
+Steal From: Dueling Knight, Grenade, Twintania
+ 
+Force Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+15
+15
+0
+10
+0
+-5
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Nullifies all elemental attacks.
+Location
+Win from: Omega Mk.II
+ 
+Genji Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+6
+9
+1
+50
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Protects against statuses.
+Prevents Status: MiniParalyze
+Location
+Steal From: Gilgamesh (5)
+ 
+Golden Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+4
+0
+30
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Ronka Ruins
+Buy From: Quelb (Final Land), Quelb (Galuf's Land), Surgate (Final Land), Castle of Bal (Final Land), Regole (Galuf's Land), Surgate (Galuf's Land), Regole (Final Land)
+Win from: Gilgamesh (3), Shield Dragon
+Steal From: Shield Dragon, Tyrannosaur
+ 
+Ice Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+7
+5
+40
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+Absorbs elemental damage.
+Element: Ice
+Location
+Found: Exdeath's Castle, Pyramid of Moore
+Win from: Belphegor
+Steal From: Numb Blade
+ 
+Iron Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+2
+0
+20
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Walse (Bartz' Land)
+ 
+Leather Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+2
+0
+0
+10
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Found: Original equipment for Faris
+Buy From: Tule (Bartz' Land), Tule (Final Land)
+ 
+Mythril Shield
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+3
+0
+25
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Blue Mage Cannoneer Gladiator
+Special Attributes
+None
+Location
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+Win from: Page 256, Ronkan Knight
+Steal From: Shield Dragon
+ 
+Angel Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+5
+10
+0
+10
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Prevent status
+Prevents Status: OldZombie
+Location
+Found: Interdimensional Rift
+Buy From: Phantom Village (Final Land), Istory (Bartz' Land)
+Win from: Vilia
+Steal From: Baldanders, Druid
+ 
+Chaos Orb
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+8
+0
+0
+10
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Raises power of all elemental attacks except Water
+Adds Status: Regen
+Location
+Win from: Archeodemon
+ 
+Coral Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+5
+5
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Absorbs Water, immune to Fire, weak against Lightning
+Element: Water
+Location
+Found: Interdimensional Rift, Sealed Temple
+Buy From: Istory (Bartz' Land), Phantom Village (Final Land)
+Win from: Yellow Dragon
+Steal From: Parthenope
+ 
+Crystal Orb
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+0
+20
+0
+12
+0
+5
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Win from: Guardian
+ 
+Cursed Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+25
+5
+0
+10
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Adds status
+Adds Status: Doom
+Location
+Found: Pyramid of Moore
+Steal From: Fury, Hades
+ 
+Diamond Armlet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+4
+5
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Ninja Bard Ranger Beastmaster Dancer Geomancer Chemist Mime Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Buy From: Moore (Galuf's Land), Moore (Final Land)
+Win from: Executor, Imp
+ 
+Elven Mantle
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+0
+3
+0
+5
+1
+1
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Grants a 33% chance of evading physical attacks
+Location
+Found: Walse Castle, Karnak Castle
+Win from: Halicarnassus
+Steal From: Cherie
+ 
+Flame Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+5
+5
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Absorbs Fire, immune to Ice, weak against Water
+Element: Fire
+Location
+Found: Great Sea Trench
+Buy From: Phantom Village (Final Land), Istory (Bartz' Land)
+Steal From: Red Dragon
+ 
+Gauntlets
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+6
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Buy From: Surgate (Final Land), Quelb (Final Land), Castle of Bal (Final Land), Quelb (Galuf's Land), Surgate (Galuf's Land)
+Steal From: Gel Fish, Gilgamesh (4), Mecha Head
+ 
+Genji Gloves
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+6
+12
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Prevent status
+Prevents Status: ToadParalyze
+Location
+Steal From: Gilgamesh (3)
+ 
+Hermes Sandals
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+0
+3
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Adds/Prevents status
+Prevents Status: SlowStopParalyzeSleep
+Adds Status: Haste
+Location
+Found: Interdimensional Rift
+Buy From: Phantom Village (Final Land)
+Win from: Cherie
+ 
+Hyper Wrist
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+0
+3
+0
+0
+0
+0
+0
+5
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Found: Sealed Temple
+ 
+Kaiser Knuckles
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+8
+0
+0
+0
+0
+0
+5
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Increases Attack by 50 if no weapon is equipped while using Barehanded.
+Location
+Found: Great Sea Trench
+Win from: Steel Fist
+ 
+Kornago Gourd
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+15
+0
+0
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Increases HP requirement for successful !Catch from 12.5% to 50%
+Location
+Found: Quelb
+Steal From: Omniscient
+ 
+Leather Shoes
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+1
+1
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Made from cow
+Location
+Found: Tule
+Win from: Black Goblin
+Steal From: Minotaur
+ 
+Mythril Gloves
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+5
+3
+0
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+None
+Location
+Found: Fire-Powered Ship
+Buy From: Karnak (Final Land), Karnak (Bartz' Land)
+Win from: Mythril Dragon
+ 
+Power Armlet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+0
+3
+0
+0
+0
+0
+0
+3
+0
+Equippers
+Freelancer Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Ninja Bard Ranger Beastmaster Dancer Geomancer Chemist Mime Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Found: Ronka Ruins
+Buy From: Quelb (Final Land), Quelb (Galuf's Land)
+Steal From: Abductor (2), Shadow Dancer
+ 
+Protect Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+10
+10
+0
+10
+0
+0
+0
+5
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Adds status
+Adds Status: Regen
+Location
+Found: Pyramid of Moore, Istory Falls, Island Shrine
+Steal From: Odin, Soul Cannon (Phoenix Tower)
+ 
+Red Slippers
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+11
+2
+0
+3
+0
+0
+0
+0
+Equippers
+Freelancer Dancer
+Special Attributes
+Increases chance of Swords Dance from 25% to 50%. Removes chance of Tempting Tango. Boosts the success rate of !Flirt.
+Prevents Status: Confuse
+Location
+Found: Interdimensional Rift
+Steal From: Cherie
+ 
+Reflect Ring
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+0
+0
+0
+0
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Adds status
+Adds Status: Reflect
+Location
+Found: Istory Falls
+Win from: Leviathan, Parthenope, Reflect Knight
+Steal From: Various Enemies
+ 
+Silver Armlet
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+3
+2
+3
+0
+5
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+None
+Location
+Found: Walse Tower
+Buy From: Karnak (Bartz' Land), Karnak (Final Land)
+ 
+Silver Specs
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+1
+1
+0
+3
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Prevents status.
+Prevents Status: Darkness
+Location
+Found: Walse
+Win from: Iron Claw
+Steal From: Headstone, Page 64, Vilia
+ 
+Sorceror's Mantle
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+0
+0
+0
+10
+20
+0
+0
+0
+0
+Equippers
+Freelancer Knight Monk Thief White Mage Black Mage Blue Mage Red Mage Time Mage Summoner Mystic Knight Berserker Dragoon Ninja Bard Ranger Samurai Beastmaster Dancer Geomancer Chemist Mime Gladiator Oracle Cannoneer Necromancer
+Special Attributes
+Halves all elemental damage
+Location
+Found: Sealed Temple
+ 
+Thief's Gloves
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+1
+4
+0
+0
+0
+1
+0
+0
+0
+Equippers
+Freelancer Thief Mime
+Special Attributes
+Doubles chances of obtaining an item with !Steal or !Mug
+Location
+Found: Fire-Powered Ship
+Steal From: Necrophobe, Sekhmet
+ 
+Titan's Gloves
+Weight
+Defense
+Mag. Def.
+Evade
+Mag. Evd.
+Agility
+Magic
+Strength
+Stamina
+0
+0
+0
+0
+0
+-5
+-5
+5
+5
+Equippers
+Freelancer Knight Dragoon Samurai Berserker Mystic Knight Gladiator Mime
+Special Attributes
+Prevent status
+Prevents Status: Mini
+Location
+Steal From: Azulmagia
+ 
