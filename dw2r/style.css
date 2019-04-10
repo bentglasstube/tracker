@@ -1,0 +1,229 @@
+body {
+  user-select: none;
+}
+
+div {
+  margin-bottom: 4px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 4px;
+  vertical-align: middle;
+}
+
+div>img {
+  filter: grayscale(1.0);
+  opacity: 0.5;
+  margin: 4px;
+  text-align: center;
+}
+
+.chars {
+  float: left;
+  width: 160px;
+  padding: 8px;
+}
+
+.chars img {
+  width: 32px;
+  height: 64px;
+}
+
+.items img {
+  width: 32px;
+  height: 32px;
+}
+
+img.have {
+  filter: none;
+  opacity: 1.0;
+}
+
+#key.silver {
+  filter: grayscale(1.0) !important;
+}
+
+.island, .equipment {
+  display: block;
+  text-align: left;
+  border-top: 1px solid #ccc;
+  padding: 4px 0;
+  width: 100%;
+}
+
+.equipment>span {
+  line-height: 16px;
+  font-size: 8px;
+  clear: both;
+  padding-left: 20px;
+}
+
+.equipment i {
+  margin: 0 4px;
+}
+
+.equipment i.n {
+  filter: grayscale(1.0);
+  opacity: 0.5;
+}
+
+.equipment .cursed {
+  color: #c77;
+}
+
+i.hero {
+  background-image: url('hero.png');
+}
+
+i.bran {
+  background-image: url('bran.png');
+}
+
+i.peta {
+  background-image: url('peta.png');
+}
+
+span {
+  background-repeat: no-repeat;
+  background-position: 4px 4px;
+}
+
+span.castle {
+  background-image: url('castle.png');
+}
+
+span.town {
+  background-image: url('town.png');
+}
+
+span.cave {
+  background-image: url('cave.png');
+}
+
+span.tower {
+  background-image: url('tower.png');
+}
+
+span.search {
+  background-image: url('bridge.png');
+}
+
+span.shrine {
+  background-image: url('shrine.png');
+}
+
+span.armor {
+  background-image: url('armor.png');
+}
+
+span.shield {
+  background-image: url('shield.png');
+}
+
+span.helmet {
+  background-image: url('helmet.png');
+}
+
+span.weapon {
+  background-image: url('sword.png');
+}
+
+span.value {
+  float: right;
+  margin-right: 8px;
+}
+
+div {
+  margin: 0;
+  padding-bottom: 4px;
+}
+
+div>span {
+  color: #fff;
+  padding-left: 30px;
+}
+
+div span.found {
+  opacity: 1.0;
+  filter: none;
+}
+
+i.chest {
+  background-image: url('chest.png');
+}
+
+i.chest.done{
+  opacity: 1;
+  background-image: url('open.png'); }
+
+i.flute {
+  background-image: url('tootq.png');
+  float: left;
+}
+
+span.yes {
+  color: #bfb;
+}
+
+span.yes i.flute {
+  background-image: url('tooty.png');
+}
+
+span.no {
+  opacity: 0.8;
+  color: #fbb;
+}
+
+span.no i.flute {
+  background-image: url('tootn.png');
+}
+
+i.battle {
+  background-image: url('battle.png');
+}
+
+i.dog {
+  background-image: url('dog.png');
+}
+
+.unavailable {
+  opacity: 0.5;
+  filter: grayscale(1.0);
+}
+
+.done {
+  opacity: 0.2;
+  filter: grayscale(1.0);
+  text-decoration: line-through;
+}
+
+.done i.done {
+  opacity: 1;
+}
+
+.unavailable i.unavailable {
+  opacity: 1;
+}
+
+ul.nav {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 0 4px;
+  padding: 0;
+  font-size: 12px;
+}
+
+ul.nav>li {
+  margin: 0;
+  padding: 0;
+}
+
+ul.nav>li>a {
+  color: #666;
+  text-decoration: none;
+}
+
+ul.nav li.active a {
+  color: #fff;
+}

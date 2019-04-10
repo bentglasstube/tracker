@@ -1,0 +1,364 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Dragon Warrior II</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="chars">
+      <img id="hero" title="Hero" src="hero-full.png" class="char have">
+      <img id="bran" title="Bran" src="bran-full.png" class="char">
+      <img id="peta" title="Peta" src="peta-full.png" class="char">
+    </div>
+    <div class="items">
+      <img title="Sun" src="sun.png">
+      <img id="moon" title="Moon" src="moon.png">
+      <img title="Water" src="water.png">
+      <img id="star" title="Star" src="star.png">
+      <img title="Life" src="life.png">
+      <img title="Echoing Flute" src="flute.png">
+      <img title="Mirror of Ra" src="mirror.png">
+      <img title="Silver/Golden Key" src="key-gold.png" id="key">
+      <img title="Jailor's Key" src="key-jailor.png" id="jailor">
+    </div>
+
+    <ul class="nav">
+      <li class="active"><a id="loc" href="#loc">Locations</a></li>
+      <li><a id="eq" href="#eq">Equipment</a></li>
+    </ul>
+
+    <div class="island">
+      <span class="castle">Midenhall
+        <i class="flute"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest done"></i>
+      </span>
+      <span class="castle">Cannock
+        <i class="flute"></i>
+        <i class="chest gold unavailable"></i>
+      </span>
+      <span class="cave">Bravery
+        <i class="flute"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="cave">Lake Cave
+        <i class="flute"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+    </div>
+
+    <div id="area2" class="island unavailable">
+      <span class="town">Hamlin
+        <i class="flute"></i>
+        <i class="chest gold jailor unavailable"></i>
+      </span>
+      <span class="tower">Wind
+        <i class="flute"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="search">Overworld <i class="chest"></i></span>
+    </div>
+
+    <div id="area3" class="island unavailable">
+      <span class="castle">Charlock
+        <i class="flute"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="castle yes">Osterfair
+        <i class="flute"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="chest gold unavailable"></i>
+        <i class="battle"></i>
+      </span>
+      <span class="cave">Sea Cave
+        <i class="flute"></i>
+        <i class="chest silver unavailable"></i>
+        <i class="chest silver unavailable"></i>
+        <i class="chest silver unavailable"></i>
+        <i class="chest silver unavailable"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="cave">Hork Pit
+        <i class="flute"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="town">Zahan
+        <i class="flute"></i>
+        <i class="chest jailor unavailable"></i>
+        <i class="dog"></i>
+      </span>
+      <span class="tower yes">Lighthouse
+        <i class="flute"></i>
+        <i class="battle silver unavailable"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="tower">Moon
+        <i class="flute"></i>
+        <i class="chest silver unavailable"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+      <span class="shrine">Fire Shrine <i class="chest"></i></span>
+      <span class="search">Overworld
+        <i class="chest"></i>
+        <i class="chest"></i>
+      </span>
+    </div>
+
+    <div class="equipment">
+      <span class="armor">Clothes
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">2</span>
+      </span>
+      <span class="armor">Leather Armor
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">6</span>
+      </span>
+      <span class="armor">Chain Mail
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">12</span>
+      </span>
+      <span class="armor">Clothes Hiding
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">20</span>
+      </span>
+      <span class="armor">Full Plate Armor
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">25</span>
+      </span>
+      <span class="armor">Magic Armor
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">25</span>
+      </span>
+      <span class="armor">Mink Coat
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">30</span>
+      </span>
+      <span class="armor">Water Flying Cloth
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">35</span>
+      </span>
+      <span class="armor">Armor of Gaia
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">35</span>
+      </span>
+      <span class="armor">Armor of Erdrick
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">40</span>
+      </span>
+      <span class="armor cursed">Gremlin's Armor
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">50</span>
+      </span>
+    </div>
+
+    <div class="equipment">
+      <span class="shield">Leather Shield
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">4</span>
+      </span>
+      <span class="shield">Steel Shield
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">10</span>
+      </span>
+      <span class="shield">Shield of Strength
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">18</span>
+      </span>
+      <span class="shield">Shield of Erdrick
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">20</span>
+      </span>
+      <span class="shield cursed">Evil Shield
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">30</span>
+      </span>
+    </div>
+
+    <div class="equipment">
+      <span class="helmet">Iron Helmet
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">6</span>
+      </span>
+      <span class="helmet">Helmet of Erdrick
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">20</span>
+      </span>
+    </div>
+
+    <div class="equipment">
+      <span class="weapon">Bamboo Stick
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">2</span>
+      </span>
+      <span class="weapon">Club
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">8</span>
+      </span>
+      <span class="weapon">Copper Sword
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">10</span>
+      </span>
+      <span class="weapon">Magic Knife
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">12</span>
+      </span>
+      <span class="weapon">Chain Sickle
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">15</span>
+      </span>
+      <span class="weapon">Iron Spear
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">20</span>
+      </span>
+      <span class="weapon">Broad Sword
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">30</span>
+      </span>
+      <span class="weapon">Wizard's Wand
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">8</span>
+      </span>
+      <span class="weapon">Giant's Hammer
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">35</span>
+      </span>
+      <span class="weapon">Sword of Erdrick
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">40</span>
+      </span>
+      <span class="weapon">Dragon Killer
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">50</span>
+      </span>
+      <span class="weapon">Light Sword
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">65</span>
+      </span>
+      <span class="weapon">Staff of Thunder
+        <i class="peta"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">15</span>
+      </span>
+      <span class="weapon">Falcon Sword
+        <i class="peta n"></i>
+        <i class="bran"></i>
+        <i class="hero"></i>
+        <span class="value">5</span>
+      </span>
+      <span class="weapon">Thunder Sword
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">80</span>
+      </span>
+      <span class="weapon cursed">Sword of Destruction
+        <i class="peta n"></i>
+        <i class="bran n"></i>
+        <i class="hero"></i>
+        <span class="value">93</span>
+      </span>
+    </div>
+
+    <p id="timer">0.00</p>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="/fireworks.js"></script>
+    <script src="tracker.js"></script>
+    <script src="/timer.js"></script>
+  </body>
+</html>
