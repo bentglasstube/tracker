@@ -145,7 +145,7 @@ div {
 
 div>span {
   color: #fff;
-  padding-left: 30px;
+  padding-left: 48px;
 }
 
 div span.found {
@@ -164,6 +164,7 @@ i.chest.done{
 i.flute {
   background-image: url('tootq.png');
   float: left;
+  margin-left: -20px;
 }
 
 span.yes {
