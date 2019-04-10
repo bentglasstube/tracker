@@ -1,0 +1,78 @@
+body {
+  height: 540px;
+}
+
+#items {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#items img {
+  width: 32px;
+  height: 32px;
+  margin: 8px;
+  padding: 0;
+  cursor: pointer;
+  filter: grayscale(100%);
+  opacity: 0.5;
+}
+
+#items img.have {
+  filter: none;
+  opacity: 1;
+}
+
+#map {
+  width: 340px;
+  height: 340px;
+  margin: auto;
+  background: url('map.png');
+  position: relative;
+}
+
+#map i {
+  border: 1px solid #fff;
+  border-radius: 5px;
+  width: 8px;
+  height: 8px;
+  background: #0f0;
+  cursor: pointer;
+  position: absolute;
+}
+
+#map i.locked {
+  background: #800;
+}
+
+#map i.dim {
+  background: #999;
+}
+
+#coneria   { left: 58%; top: 62%; }
+#fiends    { left: 48%; top: 46%; }
+#matoya    { left: 63%; top: 44%; }
+#pravoka   { left: 80%; top: 58%; }
+#elfland   { left: 52%; top: 86%; }
+#marsh     { left: 38%; top: 90%; }
+#astos     { left: 38%; top: 71%; }
+#dwarf     { left: 36%; top: 58%; }
+#melmac    { left: 29%; top: 60%; }
+#earth     { left: 24%; top: 71%; }
+#titan     { left: 14%; top: 66%; }
+#sarda     { left:  9%; top: 72%; }
+#crescent  { left: 84%; top: 83%; }
+#volcano   { left: 72%; top: 78%; }
+#ice       { left: 76%; top: 70%; }
+#airship   { left: 85%; top: 91%; }
+#ordeal    { left: 49%; top: 16%; }
+#cardia    { left: 42%; top: 23%; }
+#sea       { left: 22%; top: 21%; }
+#waterfall { left: 19%; top: 10%; }
+#gaia      { left: 84%; top:  9%; }
+#mirage    { left: 74%; top: 21%; }
+#caravan   { left: 10%; top: 18%; }
+#mgmt      { left: 91%; top: 38%; }

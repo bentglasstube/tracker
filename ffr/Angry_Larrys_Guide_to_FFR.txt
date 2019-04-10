@@ -1,0 +1,112 @@
+Welcome to Angry Larry's guide to playing Final Fantasy Randomizer.
+
+First there are a few things you need to consider before you embark on your journey.  What is your goal, and who do you want to take with you.
+
+START OF THE GAME
+
+1. Check shops for good spells especially AOE spells.  
+2. If the town lacks a good spell, look to get at least one person in your party a good weapon.
+3. Take notice on what the item shop and armor shops sell.
+
+Ideal spells to get are as follows:
+
+- For a BLM look for NUKE, Any tier 3 spell (or tier 2 early in game), TMPR (especially if playing a goal that requires you to fight fiends), FAST, WARP.
+
+- For a WHM get any CUR, HEL or LIF spells if you can, FADE (best AOE attack spell), HRM 3 or 4 (AOE for undead types), EXIT, INV2 (same as White Shirt, helps evade) 
+
+- RDM can use spells from either shop, but the ability to learn it is based on what magic spells reside in what "slot" in the magic table (best to just try and buy to see).
+
+What to look for in shops:
+
+- For weapon shops I only pay attention to Silver Sword (best for WAR & RDM from shops).  For the rest of my part, or in lieu of Silver Sword, I get whatever I can get in the first and second shop, then rely on what I can pick up (Since AOE magic will be my early level money maker).
+
+- Armor shops I only consern myself with the following:
+	E-ProRing (Arms)
+	Gold Circle (Body)
+	MAYBE Silver Circles too, if finding them early with money.
+
+- In the item shops look for the Bottle, and buy it when you can (if you have a need to take the seed into Sea Shrine).  Also make sure you always have 99 Heals before venturing into Volcano and restock thereafter.  Tent and Cabins are great for saving on your journey to and from places.  Houses heal your MP to full so start to use them when you have the money. Also try to get 20 Pures and a handful of Softs when you can, so you do not have to backtrack in case you need them.
+
+
+**EARLY GAME**
+
+The early game is simple...
+
+1. Beat Garland.
+2. Cross Bridge.
+3. Acquire Ship. 
+4. Locate TNT
+
+- The trip to Garland isn't too dangerous if you have an AOE spell.  Take some time to gain 1-5 levels outside town, grab supplies, and head to ToF.
+
+- Once you cross the bridge you can either go to Matoya's Cave now, or after you get the ship.  I normally always go because at worst you get some money in there, which helps buy supplies or spells in ship town.
+
+- Once you get the ship, my route is as follows
+
+	Save under the cape by starting town.
+	Sail to Dwarf Cave and check the 2 chests there (If you get garbage, reset to your save south of starting town to save town)
+	Sail back to Elfland and get your magic and supplies
+	Head to Marsh Cave (if no TNT in Dwarf or Matoya's, else skip it)
+
+- When at Marsh, save outside, then head up to check the top floor's 4 treasure chests.  If nothing, reset or Exit/Warp out.  Then check the lower floors.  It is very "meta" to get the TNT and leave without checking all other chests.  Sometimes I have a hard time doing this.  If the monsters give you a hard time, bail after getting the TNT.  Otherwise complete it to avoid a backtrack.
+
+
+**MELMAC TO FLOATER**
+
+Second part of the game revolves around getting the Floater to retreive the airship.  Here is the route I would take to look for it:
+
+1. Melmac for spells and to check armor (turn in SLAB if you found it earlier).
+2. Cresent Lake for spells, supplies and the Canoe.
+3. Volcano (Unrunables: FIRE)
+4. Ice Cave. (Unrunables: Wizard)
+5. Ordeal's (Unrunables: ZomBull. ZombieD)
+
+- After getting the canoe, head to the volcano.  I like to make sure I have at least 1 house by now, and hopefully Exit or Warp.  Clear the 2nd floor of treasure then exit or warp out to use a house (MP restore so you can unload on Fire Elementals).
+
+- Head back into Volcano and clear all other chests on the other floors.  The grind at Agama, should you need it, is important.  I would grind to at least level 20 on your characters.  If you kill a few off, you can achieve higher levels sometimes taking a single BBGT to level 35+ alone.  20 average on a healthy part is good though.  23-25 to be safer for KARY.
+
+- If Volcano was a dud, next up is Ice Cave.  Just clear the chests here.  You will be a higher level from the Agama grind so it will nto be terrible.  If you have warp you can fall in the hole by the Eye spike tile and treasure chest he guards and then cast it to arise back on top of that hole, skipping the need to return through another hole later in the cave.  You can also just fall between all 3 chests and warp back up to there, to collect them all at the same time avoliding the Eye fight.
+
+- If all else fails, Ordeal's is the answer.  Sail east from Ice/Cresent Lake, then south when you hit Marsh Cave's area.  Park at the river and head in.  If you are going here on chance or because of an item hunt goal, you might want to save at Cresent Lake, and sail there without saving for a quick return if you find nothing useful.
+
+- Inside Ordeal's, you will be met with random teleporters.  When you have a choice between 2, remember your selection.  One will warp you back, sometimes to start, the other will warp you to a new area.  If you have the WARP spell, you can "undo" a bad warp by casting it to return to the last teleporter you used.  You can also skip the "BGT" chest in the room that is blocked by a Mud Golem as it will be linked to a chest at the end.  Once you get the last chest, warp or exit out, unless you want to fight the ZombieDragon at the spike title by the exit.
+
+- Remember you can run from almost all spike tile encounters.  Learn the list of unrunnable formations!!
+
+- Now take the Floater, wherever you found it, and get the airship!
+
+- Did you find the Crown and not the Floater?
+
+
+**CROWN BUT NO FLOATER**
+
+- It might be a good play to stop what you are doing after the dungeon you find the Crown in to complete that fetch quest.  The reason for this is that you might be able to skip the rest of your route if you find the Floater or more in the areas that are locked by the magic key.
+
+- If the Mystic Key areas do not give you the Floater, resume your route.  If it does, still get all the key blocked chests, then get your airship and stop your route.
+
+- Also note items that can be used in battle!  Heal helmet and staff is basically a potion for each player.  It does minimal curing, but better than nothing.  Thor's Hammer is LIT2, Mage Staff is FIR2, Light Axe is HRM2, Black Shirt is ICE2, White Shirt is INV2 (and amazine when stacking against hard bosses).
+
+
+**AIRSHIP TIME**
+
+- Once you have the airship, fly to get the ROD from the old man, then backdoor Titan's cave for the 4 chests there.  Remember to save outside and reset to save time if you get trash.  You should be doing this in a few different areas to save time.
+
+- After these 2 caves, fly to Cardia Island's and get the chests there.  If you get or already have the TAIL and no BBGT in your party, turn it in.  If you have a BBGT, you might not want to turn it in, or wait a while.  Black Belts do not get Magic Evade stats when classed up.
+
+- At this time you should have enough money for everything you need to do, so use this time to clean up some things.  Back track to get the spells you missed.  Restock supplies.  Buy the Gold Circle and E-ProRing for those who need it.  Turn in the SLAB in Melmac, Lastly, buy the bottle.  There is a chance you didnt see it yet so check Caravan (you can land ship on top of it), Gaia, Sea Shrine Town, in this order.  Once you locate it, release the fairy and get the OXYALE in Gaia.
+
+- Next up is Waterfall cave to get the chests there and the CUBE.
+
+
+**LATE GAME**
+
+- The route I take for the rest of the game:
+
+1. Sea Shrine (one door is locked by Mystic Key)
+2. MGMT Town (To get the CHIME, if you turned in the SLAB)
+3. Mirage Tower
+4. Earth Cave.  
+
+At this time you will be on the lookout for The Slab, if you do not have it (and if you do not have it after Sea Shrine you have to go to Earth or finish Marsh since you cannot get in Mirage), Crown, Tail (optional), Adamantite (optional, if WAR in party, exchange in Dwarf Cave for Excalibur), Masamune (Better than Excalibur, but all classes can use it), Ribbons, Power Fish Bait, White Shirt.  Of course there are armor and weapon upgrades here and there so print up a list of who can use what, and what is stronger than what.
+
+- If you have all important key items, and several to a majority of optional ones, you can fast track fiends, if beating the game is your goal.  Otherwise, check every treasure chest until you find what you are looking for.
