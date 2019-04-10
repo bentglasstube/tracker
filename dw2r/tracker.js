@@ -56,6 +56,7 @@ $(function() {
 
     if (t.hasClass('flute')) {
       var p = $(t.parent());
+      if (p.hasClass('search')) p = $('div>span.search');
       threeWay(p, 'no', 'yes');
     } else {
       t.toggleClass('done');
