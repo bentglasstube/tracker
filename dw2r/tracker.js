@@ -84,6 +84,7 @@ $(function() {
     $('#eq').parent().removeClass('active');
     $('.island').show();
     $('.equipment').hide();
+    e.preventDefault();
   });
 
   $('#eq').click(function(e) {
@@ -91,6 +92,7 @@ $(function() {
     $('#eq').parent().addClass('active');
     $('.island').hide();
     $('.equipment').show();
+    e.preventDefault();
   });
 
   $('.equipment').hide();
