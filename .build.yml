@@ -7,6 +7,7 @@ environment:
   deploy: 'web@eatabrick.org:tracker.eatabrick.org'
 secrets:
   - 7a7c0309-95bb-4107-9e42-96352295d661
+  - a24c9f24-f904-4cb4-91b1-1947a2704621
 tasks:
   - deploy: |
       cd tracker
