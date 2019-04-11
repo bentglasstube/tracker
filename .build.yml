@@ -2,7 +2,7 @@ image: archlinux
 packages:
   - rsync
 sources:
-  - https://git.sr.ht/~bentglasstube/tracker
+  - git@git.sr.ht:~bentglasstube/tracker
 environment:
   deploy: 'web@eatabrick.org:tracker.eatabrick.org'
 secrets:
