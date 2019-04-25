@@ -29,11 +29,14 @@ $(function() {
     avail('#mist', have('package'));
     avail('#zot img', have('earthcrystal'));
     avail('#dwarf img', underworld);
-    avail('#feymarch', underworld);
+    avail('#feymarch img', underworld);
     avail('#babil', underworld);
     avail('#canon', underworld && have('towerkey'));
     avail('#sealed', underworld && have('lucakey'));
+    avail('#sylph', underworld);
     avail('#lunar', have('darkcrystal'));
+    avail('#giant', have('darkcrystal'));
+    avail('#bahamut', have('darkcrystal'));
 
     $('#tracker p').each(function(i, e) {
       var done = true;
