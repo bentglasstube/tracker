@@ -30,7 +30,8 @@ $(function() {
     avail('#wife2', have('pan') && underworld);
     avail('#kaipo', have('sandruby'));
     avail('#magnes', have('twinharp'));
-    avail('#mist', have('package'));
+    avail('#mistitem', done('mistdragon'));
+    avail('#mistchar', have('package'));
     avail('#zot img', have('earthcrystal'));
     avail('#dwarf img', underworld);
     avail('#feymarch img', underworld);
@@ -77,16 +78,19 @@ $(function() {
   });
 
   $('#Kq').click(function(e) {
+    $(e.target).toggleClass('on');
     $('.summon').toggleClass('hide');
     updateTracker();
   });
 
   $('#Nc').click(function(e) {
+    $(e.target).toggleClass('on');
     $('.freechar').toggleClass('hide');
     updateTracker();
   });
 
   $('#Nk').click(function(e) {
+    $(e.target).toggleClass('on');
     $('.freeitem').toggleClass('hide');
     updateTracker();
   });
