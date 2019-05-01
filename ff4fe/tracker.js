@@ -77,6 +77,11 @@ $(function() {
     }
   });
 
+  $('#bosses p').click(function(e) {
+    $(e.target).toggleClass('done');
+    updateTracker();
+  });
+
   $('#Kq').click(function(e) {
     $(e.target).toggleClass('on');
     $('.summon').toggleClass('hide');
