@@ -47,14 +47,14 @@
 
       <p id="baron">Baron Castle
       <img src="item.png">
-      <img src="item.png">
+      <img class="summon hide" src="item.png">
       <img src="char.png"></p>
 
       <p>Baron Inn
       <img class="available" src="item.png">
       <img class="available" src="char.png"></p>
 
-      <p>Damcyan <img class="available" src="char.png"></p>
+      <p>Damcyan <img class="available freechar" src="char.png"></p>
 
       <p>Eblan Cave <img id="eblan" src="char.png"></p>
 
@@ -68,25 +68,25 @@
       <p>Magnes Cave <img id="magnes" src="item.png"></p>
 
       <p>Mist Village
-      <img class="available" src="item.png">
+      <img class="available freeitem hide" src="item.png">
       <img id="mist" src="char.png"></p>
 
       <p>Mt Hobbs <img class="available" src="char.png"></p>
 
       <p>Mt Ordeals
       <img class="available" id="ordeals" src="item.png">
-      <img class="available" src="char.png">
+      <img class="available freechar" src="char.png">
       </p>
 
-      <p>Mysidia <img class="available" src="2char.png"></p>
+      <p>Mysidia <img class="available freechar" src="2char.png"></p>
 
       <p id="zot">Tower of Zot
       <img src="item.png">
       <img src="2char.png"></p>
 
-      <p>Troia Castle <img class="available" src="item.png"></p>
+      <p>Troia Castle <img class="available freeitem" src="item.png"></p>
 
-      <p>Watery Pass <img class="available" src="char.png"></p>
+      <p>Watery Pass <img class="available freechar" src="char.png"></p>
 
       <hr>
 
@@ -95,8 +95,8 @@
       <img id="dwarfchar" src="char.png"></p>
 
       <p id="feymarch">Feymarch
-      <img src="item.png">
-      <img src="item.png">
+      <img class="summon hide" src="item.png">
+      <img class="summon hide" src="item.png">
       <img src="item.png"></p>
 
       <p>Lower Babil
@@ -105,16 +105,27 @@
 
       <p>Sealed Cave <img id="sealed" src="item.png"></p>
 
-      <p>Sylph Cave <img id="sylph" src="item.png"></p>
+      <p>Sylph Cave
+        <img id="sylph" class="summon hide" src="item.png">
+      </p>
 
       <hr>
 
-      <p>Bahamut <img id="bahamut" src="item.png"></p>
+      <p>Bahamut
+        <img id="bahamut" class="summon hide" src="item.png">
+      </p>
+
       <p>Giant <img id="giant" src="char.png"></p>
       <p>Lunar Sub <img id="lunar" src="char.png"></p>
     </div>
 
     <p id="timer"></p>
+
+    <div id="controls">
+      <button id="Nc">No Free Characters</button>
+      <button id="Nk">No Free Key Item</button>
+      <button id="Kq">Mix with summon quest rewards</button>
+    </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="tracker.js"></script>

@@ -8,9 +8,13 @@ $(function() {
     return $('#' + place).hasClass('done');
   }
 
+  function setClass(selector, cond, c) {
+    if (cond) $(selector).addClass(c);
+    else $(selector).removeClass(c);
+  }
+
   function avail(selector, cond) {
-    if (cond) $(selector).addClass('available');
-    else $(selector).removeClass('available');
+    setClass(selector, cond, 'available');
   }
 
   function updateTracker() {
@@ -41,15 +45,18 @@ $(function() {
     $('#tracker p').each(function(i, e) {
       var done = true;
       var avail = false;
+      var hidden = true;
       $(e).children('img').each(function(i, e) {
+        if ($(e).hasClass('hide')) return;
+        hidden = false;
         if (!$(e).hasClass('done')) done = false;
         if ($(e).hasClass('available')) avail = true;
       });
 
-      $(e).removeClass('done');
-      $(e).removeClass('available');
-      if (done)  $(e).addClass('done');
-      if (avail) $(e).addClass('available');
+
+      setClass(e, hidden, 'hide');
+      setClass(e, done, 'done');
+      setClass(e, avail, 'available');
     });
   }
 
@@ -67,6 +74,21 @@ $(function() {
       $(this).toggleClass('done');
       updateTracker();
     }
+  });
+
+  $('#Kq').click(function(e) {
+    $('.summon').toggleClass('hide');
+    updateTracker();
+  });
+
+  $('#Nc').click(function(e) {
+    $('.freechar').toggleClass('hide');
+    updateTracker();
+  });
+
+  $('#Nk').click(function(e) {
+    $('.freeitem').toggleClass('hide');
+    updateTracker();
   });
 
   updateTracker();
