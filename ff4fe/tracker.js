@@ -43,6 +43,9 @@ $(function() {
     avail('#giant', have('darkcrystal'));
     avail('#bahamut', have('darkcrystal'));
 
+    avail('#towns .underworld', underworld);
+    avail('#towns .moon', have('darkcrystal'));
+
     $('#tracker p').each(function(i, e) {
       var done = true;
       var avail = false;
@@ -80,6 +83,20 @@ $(function() {
   $('#bosses p').click(function(e) {
     $(e.target).toggleClass('done');
     updateTracker();
+  });
+
+  $('#towns p').click(function(e) {
+    var t = $(e.target);
+    if (t.hasClass('available')) {
+      if (t.hasClass('done')) {
+        t.removeClass('done');
+        t.addClass('poi');
+      } else if (t.hasClass('poi')) {
+        t.removeClass('poi');
+      } else {
+        t.addClass('done');
+      }
+    }
   });
 
   $('#Kq').click(function(e) {
