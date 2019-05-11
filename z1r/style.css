@@ -3,10 +3,6 @@
   src: url('joystix.ttf') format('truetype');
 }
 
-body {
-  height: 540px;
-}
-
 div>span {
   font-size: 16px;
   line-height: 36px;

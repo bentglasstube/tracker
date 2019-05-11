@@ -1,7 +1,3 @@
-body {
-  height: 540px;
-}
-
 #party, #items, #tracker, #bosses {
   display: flex;
   flex-wrap: wrap;
