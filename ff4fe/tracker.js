@@ -38,7 +38,7 @@ $(function() {
     avail('#babil', underworld);
     avail('#canon', underworld && have('towerkey'));
     avail('#sealed', underworld && have('lucakey'));
-    avail('#sylph', underworld);
+    avail('#sylph', underworld && have('pan'));
     avail('#lunar', have('darkcrystal'));
     avail('#giant', have('darkcrystal'));
     avail('#bahamut', have('darkcrystal'));
