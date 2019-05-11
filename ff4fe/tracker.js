@@ -99,6 +99,16 @@ $(function() {
     }
   });
 
+  $('#chests p').click(function(e) {
+    $(e.target).toggleClass('done');
+  });
+
+  $('#chests p i.trap').click(function(e) {
+    var count = parseInt($(this).text());
+    if (count > 0) $(this).text(count - 1);
+    e.stopPropagation();
+  });
+
   $('#Kq').click(function(e) {
     $(e.target).toggleClass('on');
     $('.summon').toggleClass('hide');

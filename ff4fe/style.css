@@ -67,7 +67,7 @@ img.active {
   display: none;
 }
 
-#tracker hr {
+hr {
   display: block;
   width: 100%;
   height: 1px;
@@ -121,6 +121,10 @@ img.active {
   text-align: center;
 }
 
+#extras div p:hover {
+  background-color: #333;
+}
+
 #bosses p.done {
   color: #bbb;
   background-color: #630000;
@@ -140,4 +144,30 @@ img.active {
 
 #towns p.poi {
   background-color: #006300;
+}
+
+#chests p {
+  width: 125px !important;
+  text-align: left !important;
+}
+
+#chests .done {
+  color: #222;
+  text-decoration: line-through;
+  border-color: #222;
+}
+
+#chests p i {
+  float: right;
+  font-style: normal;
+  width: 20px;
+  text-align: right;
+}
+
+#chests p i.trap {
+  color: #f40000;
+}
+
+#chests p.done i.trap {
+  color: #200;
 }
