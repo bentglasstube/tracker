@@ -78,22 +78,4 @@ $(function() {
       return false;
     }
   });
-
-  $('#loc').click(function(e) {
-    $('#loc').parent().addClass('active');
-    $('#eq').parent().removeClass('active');
-    $('.island').show();
-    $('.equipment').hide();
-    e.preventDefault();
-  });
-
-  $('#eq').click(function(e) {
-    $('#loc').parent().removeClass('active');
-    $('#eq').parent().addClass('active');
-    $('.island').hide();
-    $('.equipment').show();
-    e.preventDefault();
-  });
-
-  $('.equipment').hide();
 });

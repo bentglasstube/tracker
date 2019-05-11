@@ -77,3 +77,11 @@ div>span>i {
 #timer #ms {
   font-size: 50%;
 }
+
+#extras {
+  position: fixed;
+  top: 0;
+  left: 410px;
+  margin: 0;
+  padding: 0;
+}

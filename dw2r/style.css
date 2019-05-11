@@ -210,26 +210,3 @@ i.dog {
 .unavailable i.unavailable {
   opacity: 1;
 }
-
-ul.nav {
-  list-style: none;
-  display: flex;
-  justify-content: space-evenly;
-  margin: 0 0 4px;
-  padding: 0;
-  font-size: 12px;
-}
-
-ul.nav>li {
-  margin: 0;
-  padding: 0;
-}
-
-ul.nav>li>a {
-  color: #666;
-  text-decoration: none;
-}
-
-ul.nav li.active a {
-  color: #fff;
-}
