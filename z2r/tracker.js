@@ -76,4 +76,19 @@ $(function() {
     $(e.target).toggleClass('done');
     e.preventDefault();
   });
+
+  $('#map i').click(function(e) {
+    $(e.target).toggleClass('done');
+    e.preventDefault();
+  });
+
+  $('#map i').contextmenu(function(e) {
+    $(e.target).toggleClass('poi');
+    e.preventDefault();
+  });
+
+  $('#map').contextmenu(function(e) {
+    e.preventDefault();
+  });
+
 });
