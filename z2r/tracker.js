@@ -77,6 +77,20 @@ $(function() {
     e.preventDefault();
   });
 
+  $('#standard').click(function(e) {
+    $('button').removeClass('active');
+    $(e.target).addClass('active');
+    $('.standard').show();
+    $('.classic').hide();
+  });
+
+  $('#classic').click(function(e) {
+    $('button').removeClass('active');
+    $(e.target).addClass('active');
+    $('.standard').hide();
+    $('.classic').show();
+  });
+
   $('#map i').click(function(e) {
     $(e.target).toggleClass('done');
     e.preventDefault();
@@ -91,4 +105,5 @@ $(function() {
     e.preventDefault();
   });
 
+  $('.classic').hide();
 });

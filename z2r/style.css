@@ -95,6 +95,24 @@ div.border p {
   left: 0;
 }
 
+#controls {
+  margin-bottom: 8px;
+}
+
+#controls button {
+  display: inline;
+  margin: 4px;
+  padding: 4px;
+  border: 2px solid #fff;
+  background-color: #000;
+  color: #fff;
+  font-family: 'pickles';
+}
+
+#controls button.active {
+  background-color: #006300;
+}
+
 #map {
   margin: auto;
   background: url('bigmap.png');

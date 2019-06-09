@@ -15,7 +15,7 @@
         <div><img src="heart.png" title="Heart Cave"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="trophy.png" title="Trophy Cave"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="medicine.png" title="Medicine Cave"><img class="clicky" data-click="item" src="blank.png"></div>
-        <div><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
+        <div class="standard"><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="hammer.png" title="Hammer Cave"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="boulder.png" title="Spectacle Rock"><img class="clicky" data-click="item" src="blank.png"></div>
       </div>
@@ -23,7 +23,7 @@
         <div><img src="cave-parapa.png"></div>
         <div><img src="cave-jump.png"></div>
         <div><img src="cave-fairy.png"></div>
-        <div><img src="cave-bridge.png"></div>
+        <div class="classic"><img src="cave-bridge.png"></div>
         <div><img src="town-saria.png"></div>
         <div><img src="cave-dm.png"></div>
       </div>
@@ -32,8 +32,8 @@
       <div>
         <div><img src="desert.png" title="Desert Tile"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="water.png" title="Water Tile"><img class="clicky" data-click="item" src="blank.png"></div>
-        <div><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
-        <div><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
+        <div class="standard"><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
+        <div class="standard"><img src="pbag.png" title="P Bag Cave"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img class="clicky" data-click="oldwoman" src="oldwoman.png" title="New Kasuto Magic"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="key.png" title="Spell Tower"><img class="clicky" data-click="item" src="blank.png"></div>
         <div><img src="magic.png" title="Maze Island Magic"><img class="clicky" data-click="item" src="blank.png"></div>
@@ -76,7 +76,12 @@
 
     <div id="extras">
 
-      <div id="map">
+      <div id="controls">
+        <button id="standard" class="active">Standard Mode</button>
+        <button id="classic">Classic Mode</button>
+      </div>
+
+      <div id="map" class="classic">
         <i style="left: 180px; top:  18px" title="Trophy Cave"></i>
         <i style="left: 378px; top:  18px" title="Palace 1"></i>
         <i style="left:  18px; top:  42px" title="Ruto"></i>
