@@ -56,6 +56,27 @@ $(function() {
     e.preventDefault();
   };
 
+  var menuTarget = undefined;
+  var showMenu = function(x, y, target) {
+    menuTarget = target;
+    var menu = $('#menu');
+
+    menu.css('left', x + 'px');
+    menu.css('top', y + 'px');
+    menu.show();
+  };
+
+  var closeMenu = function() {
+    menuTarget = undefined;
+    $('#menu').hide();
+  };
+
+  var addNote = function(encounter, location) {
+    var dt = $('<dt>' + encounter + '</dt>');
+    var dd = $('<dd>' + location + '</dd>');
+    $('#notes').append(dt, dd);
+  };
+
   $('img[data-click]').click(increment);
   $('img[data-click]').contextmenu(decrement);
   $('img[data-click]').bind('mousewheel', function(e) {
@@ -97,12 +118,32 @@ $(function() {
   });
 
   $('#map i').contextmenu(function(e) {
-    $(e.target).toggleClass('poi');
+    showMenu(e.pageX, e.pageY, $(e.target));
+    e.stopPropagation();
     e.preventDefault();
   });
 
   $('#map').contextmenu(function(e) {
+    closeMenu();
     e.preventDefault();
+  });
+
+  $('#menu li').click(function(e) {
+    var t = $(e.target);
+    if (menuTarget) {
+      menuTarget.addClass('poi');
+      if (t.hasClass('palace')) {
+        menuTarget.addClass('palace');
+      } else if (t.hasClass('town')) {
+        menuTarget.addClass('town')
+      } else if (t.hasClass('dock')) {
+        menuTarget.addClass('dock');
+      }
+
+      addNote(t.text(), menuTarget.attr('title'));
+    }
+
+    closeMenu();
   });
 
   $('.classic').hide();

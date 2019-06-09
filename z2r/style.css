@@ -147,6 +147,62 @@ div.border p {
 }
 
 #map i.poi {
-  background: #ff0;
+  background: #000;
+  background-size: contain;
+  border: 1px solid #000;
   z-index: 4;
+  width: 16px;
+  height: 16px;
+  margin-top: -6px;
+  margin-left: -6px;
+}
+
+#map i.poi.town {
+  background: url('town.png');
+  border: none;
+}
+
+#map i.poi.palace {
+  background: url('palace.png');
+  border: none;
+}
+
+#map i.poi.dock {
+  background: url('dock.png');
+  border: none;
+}
+
+#menu {
+  border: 8px solid white;
+  border-image-source: url('border.png');
+  border-image-slice: 8;
+  list-style: none;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0;
+  padding: 4px;
+  width: 200px;
+  text-align: left;
+  display: none;
+  position: absolute;
+  z-index: 5;
+  background: #000;
+}
+
+#menu li {
+  width: 100%;
+  cursor: pointer;
+}
+
+#menu li:hover {
+  background: #444;
+}
+
+#notes dt {
+  float: left;
+  width: 200px;
+}
+
+#notes dd {
+  clear: right;
 }
