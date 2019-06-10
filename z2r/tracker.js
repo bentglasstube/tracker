@@ -59,8 +59,12 @@ $(function() {
   var menuTarget = undefined;
   var showMenu = function(x, y, target) {
     menuTarget = target;
-    var menu = $('#menu');
 
+    $('#menu li.east,li.west').hide();
+    if (menuTarget.hasClass('west')) $('#menu li.west').show();
+    if (menuTarget.hasClass('east')) $('#menu li.east').show();
+
+    var menu = $('#menu');
     menu.css('left', x + 'px');
     menu.css('top', y + 'px');
     menu.show();
@@ -140,7 +144,14 @@ $(function() {
         menuTarget.addClass('dock');
       }
 
-      addNote(t.text(), menuTarget.attr('title'));
+      var l = document.getElementById(t.attr('data-id'));
+      if (l) {
+        if (menuTarget.hasClass('maze')) {
+          $(l).text('Maze Island');
+        } else {
+          $(l).text(menuTarget.attr('title'));
+        }
+      }
     }
 
     closeMenu();

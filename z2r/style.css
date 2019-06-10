@@ -198,11 +198,27 @@ div.border p {
   background: #444;
 }
 
-#notes dt {
-  float: left;
-  width: 200px;
+dl.classic {
+  font-size: 8pt;
+  display: inline-block;
+  vertical-align: top;
+  width: 285px;
+  margin: 4px;
+  padding: 0;
 }
 
-#notes dd {
-  clear: right;
+dl.classic dt {
+  width: 125px;
+  height: 16px;
+  color: #aaa;
+  float: left;
+  clear: left;
+}
+
+dl.classic dd {
+  width: 200px;
+  height: 16px;
+  margin-left: 125px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
