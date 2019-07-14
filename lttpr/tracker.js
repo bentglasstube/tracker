@@ -11,12 +11,21 @@ $(function() {
     img.attr('src', 'chest' + count + '.png');
   });
 
+  $('.items img').click(function(e) {
+    $(e.target).toggleClass('have');
+  });
+
   $('.map .poi').click(function(e) {
     $(e.target).toggleClass('done');
   });
 
   $('.chests img.boss').click(function(e) {
     $(e.target).toggleClass('dead');
+  });
+
+  $('#entrances').click(function(e) {
+    $(e.target).toggleClass('on');
+    $('.map .poi.er').toggle();
   });
 
   updateMaps();
