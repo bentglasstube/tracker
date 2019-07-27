@@ -40,6 +40,7 @@ table.map {
   width: 384px;
   height: 132px;
   margin: 9px;
+  margin-top: 0;
   border-collapse: collapse;
   outline: 9px solid #333;
 }
