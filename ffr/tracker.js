@@ -14,24 +14,24 @@ $(function() {
   var accessible = {
     coneria: function() { return true; },
     fiends: function() { return true; },
-    matoya: function() { return status.garland; },
-    pravoka: function() { return status.garland; },
-    elfland: function() { return status.ship; },
-    marsh: function() { return status.ship; },
-    astos: function() { return status.ship; },
-    dwarf: function() { return status.ship; },
-    melmac: function() { return status.canal; },
-    earth: function() { return status.canal; },
+    matoya: function() { return status.airship || status.garland; },
+    pravoka: function() { return status.airship || status.garland; },
+    elfland: function() { return status.airship || status.ship; },
+    marsh: function() { return status.airship || status.ship; },
+    astos: function() { return status.airship || status.ship; },
+    dwarf: function() { return status.airship || status.ship; },
+    melmac: function() { return status.airship || status.canal; },
+    earth: function() { return status.airship || status.canal; },
     titan: function() { return status.airship || (status.canal && status.ruby); },
     sarda: function() { return status.airship || (status.canal && status.ruby); },
-    crescent: function() { return status.canal; },
-    volcano: function() { return status.canoe; },
-    ice: function() { return status.canoe; },
+    crescent: function() { return status.airship || status.canal; },
+    volcano: function() { return status.airship || status.canoe; },
+    ice: function() { return status.airship || status.canoe; },
     airship: function() { return status.canoe && status.floater; },
-    ordeal: function() { return status.canoe; },
+    ordeal: function() { return (status.airship || status.ship) && status.canoe; },
     cardia: function() { return status.airship; },
     sea: function() { return status.oxyale; },
-    waterfall: function() { return status.airship; },
+    waterfall: function() { return status.airship && status.canoe; },
     gaia: function() { return status.airship; },
     mirage: function() { return status.chime; },
     caravan: function() { return status.airship; },
@@ -172,6 +172,9 @@ $(function() {
 
   $('#map i').click(clicker);
   $('#items img').click(clicker);
+  $('#extras li').click(function(e) {
+    $(e.target).toggleClass('done');
+  });
 
   updateTracker();
 });

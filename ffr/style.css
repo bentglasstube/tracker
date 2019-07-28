@@ -72,3 +72,19 @@
 #mirage    { left: 74%; top: 21%; }
 #caravan   { left: 10%; top: 18%; }
 #mgmt      { left: 91%; top: 38%; }
+
+#extras ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#extras ul li {
+  margin: 0;
+  padding: 0;
+}
+
+#extras ul li.done {
+  color: #333;
+  text-decoration: line-through;
+}
