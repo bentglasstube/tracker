@@ -4,6 +4,7 @@ $(function() {
     'town': [ 'blank.png', 'fairy.png', 'fire.png', 'jump.png', 'life.png', 'reflect.png', 'shield.png', 'spell.png', 'thunder.png' ],
     'pos': [ 'blank.png', 'west.png', 'east.png', 'maze.png', 'vod.png' ],
     'oldwoman': [ 'oldwoman.png', 'oldwoman5.png', 'oldwoman6.png', 'oldwoman7.png' ],
+    'clue': [ 'blank.png', 'west.png', 'dm.png', 'east.png', 'maze.png', 'p1.png', 'p2.png', 'p3.png', 'p4.png', 'p5.png', 'p6.png' ],
   };
 
   var next = function(set_name, current) {
